@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"MultiplyMatrix"
+			],
+			[
+				"e",
+				"elements"
+			],
+			[
+				"sock",
+				"sockfd"
+			],
+			[
+				"soc",
+				"socketid"
+			],
+			[
+				"f",
+				"fseek"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/student/Documents/220962013_B1_NIKHIL/week2/L4Q4.c",
+		"/home/student/Documents/220962013_B1_NIKHIL/week2/L4Q3.c",
+		"/home/student/Documents/220962013_B1_NIKHIL/week2/L4Q2.c",
+		"/home/student/Documents/220962013_B1_NIKHIL/week1/L1Q4PM.C",
+		"/home/student/Documents/220962013_B1_NIKHIL/Trial.c",
+		"/home/student/Documents/220962013_B1_NIKHIL/week1/L1Q1TRIPLETS.C",
+		"/home/student/Documents/220962310_a2_reeva/week_2/q1.c",
+		"/home/student/Documents/220962310_a2_reeva/week_2/q3.c",
+		"/home/student/Documents/220962310_a2_reeva/week_2/q2.c",
+		"/home/student/Documents/220962019_A1_SRIHARSHA/lab1Q4.c",
+		"/home/student/Documents/220962019_A1_SRIHARSHA/lab1Q3.c",
+		"/home/student/Documents/220962019_A1_SRIHARSHA/lab1Q2.c",
+		"/home/student/Documents/220962019_A1_SRIHARSHA/lab1Q1.c",
+		"/home/student/210905278/testin.c",
+		"/home/student/Documents/220962019_A1_SRIHARSHA/sel.c",
+		"/home/student/Documents/220962019_A1_SRIHARSHA/sample.c",
+		"/home/student/Documents/220962019_A1_SRIHARSHA/l1.c",
+		"/home/student/210905278/lab1/solved1.c",
+		"/home/student/210905278/lab1/solved2.c",
+		"/home/student/210905278/lab1/q2server.c",
+		"/home/student/210905278/lab1/q2client.c",
+		"/home/student/210905278/lab1/testing ang programs",
+		"/home/student/210905278/lab1",
+		"/home/student/.config/sublime-text/Packages/User/c1.sublime-build",
+		"/home/student/Documents/220962013_B1_NIKHIL/Q4PM.C",
+		"/home/student/Documents/220962013_B1_NIKHIL/Q2SM.C",
+		"/home/student/Documents/220962013_B1_NIKHIL/Q1TRIPLETS.C",
+		"/home/student/Documents/220962013_B1_NIKHIL/Q3LS.C",
+		"/home/student/Documents/ROHIN_DSLAB/untitled.sublime.build",
+		"/home/student/.config/sublime-text/Packages/User/rohinlab1q3.c",
+		"/home/student/.config/sublime-text/Packages/User/rohinlab1q1.c",
+		"/home/student/Documents/220962310_a2_reeva/week 1/q3.c",
+		"/home/student/210905154_AnuragMajumdar/NEWCOPY.txt",
+		"/home/student/210905154_AnuragMajumdar/NEW.txt",
+		"/home/student/210905154_AnuragMajumdar/q3.c",
+		"/home/student/210905154_AnuragMajumdar/q2.c",
+		"/home/student/210905154_AnuragMajumdar/q1.c",
+		"/home/student/Desktop/dslp/client.y",
+		"/home/student/Desktop/200905234/week11/server.py",
+		"/home/student/Desktop/200905056/week8/*.cu",
+		"/home/student/Desktop/200905234/week5/w5q3.c",
+		"/home/student/Desktop/200905234/week5/w5q1.c",
+		"/home/student/Desktop/200905234/week5/w5q2.c",
+		"/tmp/evince-2980/image.AZNS01.png",
+		"/home/student/Desktop/200905234/week1/sample.c",
+		"/home/student/Desktop/210962114/Lab 1/exercise1.v",
+		"/home/student/Desktop/210962114/Lab 3/exercise1b_tb.v",
+		"/home/student/Desktop/210962114/Lab 3/exercise1b.v",
+		"/home/student/Desktop/210962114/Lab 3/exercise1_tb.v",
+		"/home/student/Desktop/210962114/Lab 3/exercise1.v",
+		"/home/student/Desktop/210962114/Lab 1/exercise1_tb.v",
+		"/home/student/Desktop/210962114/Lab 1/exercise2.v",
+		"/home/student/Desktop/210962114/Lab 1/exercise2_tb.v"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c.sublime-build",
+	"project": "L4Q2.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
