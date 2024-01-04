@@ -1,0 +1,75 @@
+\\faculty table
+\\creating faculty table
+create table faculty(Id numeric(3),Name varchar(30),DOJ date,Salary numeric(6,2));
+\\inserting records into faculty table
+insert into faculty values(123,'ABC','25-mar-2005',2896.65);
+insert into faculty values(234,'CGF','28-dec-2006',1234.45);
+\\retrive records from the faculty table
+select * from faculty;
+select name, DOJ from faculty where salary>2000;
+\\describe faculty table
+desc faculty
+\\modify faculty table by adding a new column dept_name
+alter table faculty add dept_name varchar(20);
+\\update record in faculty table
+update faculty set dept_name='CSE' where Id=123;
+\\delete record from faculty table
+delete from faculty where id=123;
+\\delete faculty table from the db
+drop table faculty;
+
+
+
+\\employee table
+create table employee(emp_no numeric(3),emp_name varchar(30),emp_address varchar(30));
+insert into employee values(100,'ABC','manglore');
+insert into employee values(101,'BCD','manipal');
+insert into employee values(102,'CDE','delhi');
+insert into employee values(103,'DEF','manipal');
+insert into employee values(104,'EFG','manglore');
+commit;
+select emp_name from employee;
+select * from employee where emp_address='manipal';
+alter table employee add salary numeric(6,2);
+update employee set salary='2345.90' where emp_no=100;
+update employee set salary='2537.90' where emp_no=101;
+update employee set salary='4536.90' where emp_no=102;
+update employee set salary='4657.90' where emp_no=103;
+update employee set salary='4756.90' where emp_no=104;
+desc employee;
+delete from employee where emp_address='manglore';
+rename employee to employee1;
+drop table employee1;
+
+\\to get all the tables inyour sql
+select table_name from user_table;
+
+
+\\Account table
+create table Account(Account_no numeric(2),Branch_name varchar(30),Balance numeric(6,2));
+insert into Account values(00,'banglore','1234.90');
+insert into Account values(01,'manglore','1234.90');
+insert into Account values(02,'manipal','1234.90');
+insert into Account values(03,'banglore','1234.90');
+insert into Account values(04,'manglore','1234.90');
+commit;
+\\Branch table
+create table Branch(Branch_name varchar(30),Branch_city varchar(30),Assets numeric(7,2));
+insert into Branch values('ABC','banglore','16234.90');
+insert into Branch values('BCD','manglore','01234.90');
+insert into Branch values('CDE','manipal','12734.90');
+insert into Branch values('DEF','banglore','15234.90');
+insert into Branch values('EFG','manglore','01234.90');
+commit;
+\\Customer table
+create table Customer(Customer_name varchar(30),Customer_street varchar(30), Customer_city varchar(30));
+insert into Customer values('ABC','one','banglore');
+insert into Customer values('BCD','two','manglore');
+insert into Customer values('CDE','one','manipal');
+insert into Customer values('DEF','three','banglore');
+insert into Customer values('EFG','one','manglore');
+commit;
+select Branch_name from Branch where assets>10000;
+select * from Customer where Customer_city='manipal';
+alter table Branch add working_hours numeric(2);
+update Branch set working_hours=9 where Branch_city='manipal';
